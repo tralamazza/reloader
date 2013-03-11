@@ -1,7 +1,7 @@
 {
   "name": "reloader",
   "version": "0.0.1",
-  "description": "ERROR: No README.md file found!",
+  "description": "respawns a script.js whenever its content changes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "dependencies": {
     "inotifywatch": "*"
   },
-  "repository": "",
+  "repository": "git://github.com/tralamazza/reloader.git",
   "author": "Daniel Tralamazza <tralamazza@gmail.com>",
   "license": "MIT"
 }
